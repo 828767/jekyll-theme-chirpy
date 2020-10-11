@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://828767.github.io/jekyll-theme-chirpy/sitemap.xml
